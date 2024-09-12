@@ -1,0 +1,7 @@
+<button onclick="showMessage()">Nhấn vào tôi</button>
+
+<script>
+function showMessage() {
+    alert('Chào mừng bạn đến với hồ sơ cá nhân của tôi!');
+}
+</script>
